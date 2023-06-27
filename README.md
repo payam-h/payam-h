@@ -12,10 +12,6 @@ Hello, fellow developers and tech enthusiasts! I'm Payam, a seasoned web develop
 
 Teaching is close to my heart, and I relish the opportunity to impart knowledge to others. Currently, due to my active projects, I am fully engaged in their development, which limits my availability for teaching. However, I eagerly look forward to having some free time again in the future, where I can dedicate myself to connecting with junior developers and empowering them on their exciting journey.
 
-## **Eager to Learn and Conquer New Horizons** 🚀
-
-Curiosity fuels my ambition, and I'm constantly seeking new challenges to enhance my skills. In my spare time, I am actively engaged in building innovative startups and games. However, if you present an exceptional job offer, I may be enticed to join your team. Don't hesitate to reach out!
-
 ## **Building a Legacy of Successful Startups** 🌟
 
 I am proud to have created streaming sites and apps that cater to over 100k daily users. Overcoming the challenges of scalability and performance was an exhilarating journey, pushing me to new heights.
@@ -30,6 +26,11 @@ In my journey as a developer, I've had the pleasure of exploring a wide range of
 ## **Skills Forged through Exploration** ⚡️
 
 My extensive skill set is a testament to my passion for exploration. I embarked on my journey in web development, crafting renowned sites. I then delved into the world of Android app development, achieving remarkable success with apps boasting over 100k installations. Currently, my focus is on groundbreaking technologies like **AI** and **VR** that are reshaping the world.
+
+
+## **Eager to Learn and Conquer New Horizons** 🚀
+
+Curiosity fuels my ambition, and I'm constantly seeking new challenges to enhance my skills. While I am already deeply engaged in building innovative startups and games in my spare time, I remain open to captivating job opportunities that truly ignite my passion. If your offer presents an exciting and challenging endeavor, I may be enticed to bring my expertise to your team. Don't hesitate to reach out and let's explore new frontiers together!
 
 ## **Connect and Collaborate** 📩
 
