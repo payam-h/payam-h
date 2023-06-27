@@ -22,6 +22,7 @@ I am proud to have created streaming sites and apps that cater to over 100k dail
 
 ## **My Toolbox: Blending Technologies for Exciting Innovations** ⚙️
 In my journey as a developer, I've had the pleasure of exploring a wide range of languages and tools. I thrive on the excitement of learning and blending different technologies to create captivating and innovative solutions. Here are some of the key tools I enjoy working with:
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="css3" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40"/>
 
 ## **Skills Forged through Exploration** ⚡️
